@@ -1,0 +1,53 @@
+baseURL = "https://jeffcalvert.net/"
+languageCode = "en-US"
+title = "Jeff Calvert"
+theme = "hugo-classless"
+
+[params]
+  author = "Jeff Calvert"
+  description = "Writer, ultramarathoner, veteran, photographer. Essays, race reports, memoir-in-progress, and the ongoing project of a life examined."
+  themeBase = "css/base.css"
+  themeLight = "css/light.css"
+  themeDark = "css/dark.css"
+
+  [[params.themes]]
+    name = "Light"
+    url = "css/light.css"
+    dark = "css/dark.css"
+
+[taxonomies]
+  tag = "tags"
+
+[menu]
+  [[menu.main]]
+    name = "Writing"
+    pageRef = "/writing"
+    weight = 10
+  [[menu.main]]
+    name = "Photography"
+    pageRef = "/photography"
+    weight = 20
+  [[menu.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 30
+  # Books — uncomment when ready
+  # [[menu.main]]
+  #   name = "Books"
+  #   pageRef = "/books"
+  #   weight = 40
+  # Work — uncomment when ready
+  # [[menu.main]]
+  #   name = "Work"
+  #   pageRef = "/work"
+  #   weight = 50
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    style = "nord"
