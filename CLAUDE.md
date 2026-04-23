@@ -1,7 +1,7 @@
 # CLAUDE.md — jeffcalvert.net Hugo Site
 
 This file provides shared context for Claude Code and Claude Cowork sessions working on this project.
-The canonical decisions log is at /Users/Jeff/Desktop/Migration/NEW_WEBSITE_PROJECT_REFERENCE.md.
+The canonical decisions log is at /Users/Jeff/Desktop/Migration/NEW_WEBSITE_PROJECT_REFERENCE-2.md.
 
 ---
 
@@ -130,14 +130,77 @@ Not yet copied to this project. When migrating, copy to `static/images/` and upd
 
 ---
 
-## Open Tasks (site build)
+## Styles
 
-- [ ] Build home page (content/_index.md)
-- [ ] Build about section pages (bio, now, colophon, etc.)
-- [ ] Build photography page with SmugMug links
-- [ ] Build legal/footer pages (copyright, privacy, contact)
-- [ ] Custom Roughs template (layout for rough_number, written/published dates, disclaimer)
-- [ ] Copy images to static/images/ and update paths
-- [ ] Set up Netlify deployment (requires GitHub account)
-- [ ] Configure rushofitall.com redirect on Cloudflare
-- [ ] Full content migration (scrub source files, then copy to content/)
+Source of truth: `/Users/Jeff/Desktop/Migration/Styles (draft) for JeffCalvert.md`
+
+**Colors:**
+- Headings: `#202060` (Penn/midnight blue)
+- Body text: `#000000`
+- Background: `#ffffff`
+- Links, nav items, tags, breadcrumbs: `#610505` (blood red)
+- Link hover: `#8a0707`
+
+**Fonts:**
+- Headings: Arial (weight 400, line-height 1.2, letter-spacing 0)
+  - H1 2.2rem / H2 1.8rem / H3 1.4rem / H4 1.1rem
+- Body: `"Palatino Linotype", Palatino, "Book Antiqua", serif` (weight 400, line-height 1.4)
+- Misc/tags: Arial, 1rem, line-height 1, letter-spacing 0.01em
+- Base font size: 20px (set on `html`)
+
+**Spacing:** max-width 1800px, side margins 3vw
+
+**CSS files (do not edit theme files directly — override in project):**
+- `assets/css/light.css` — color CSS variables
+- `layouts/partials/css-overwrite.html` — typography, layout, and other overrides
+- `layouts/single.html` — local override of theme's single.html (tags spacing fix)
+
+---
+
+## Launch Strategy — Phased
+
+### Phase 1 (before May 8 — cancel Squarespace)
+Minimal placeholder site. Nearly all traffic is on Substack; this just establishes the domain.
+
+- [x] Homepage (`content/_index.md`) — under-construction message, Substack link, signup embed ✅
+- [x] About page — bare bio ✅
+- [ ] Set up GitHub repo and push site
+- [ ] Connect to Netlify (auto-deploy from GitHub)
+- [ ] Confirm live at jeffcalvert.net
+- [ ] Configure rushofitall.com → jeffcalvert.net redirect in Cloudflare
+- [ ] Cancel Squarespace
+
+### Phase 2 (no deadline — after Squarespace closed)
+- [ ] Rationalize tags taxonomy (~6-8 canonical values) — required before content migration
+- [ ] Restructure content/ to final target (rushofitall/, pandemic-diary/ as siblings under writing/)
+- [ ] Migrate Squarespace and Substack content (scrub source files first)
+- [ ] Build Roughs special template (Chrysalis logo, rough_number, dual dates, disclaimer)
+- [ ] TROIA vs. general template differentiation
+- [ ] Full about sub-pages (Now, Colophon, My Tens, etc.)
+- [ ] Photography page with SmugMug family links
+- [ ] Legal/footer pages (copyright, privacy, contact)
+- [ ] Copy images to static/images/, update paths
+
+### Phase 3 (future)
+- [ ] Facebook backlog salvage (from JSON export)
+- [ ] Strava pipeline decision
+- [ ] Syndication (Notebook → Bluesky, etc.)
+
+---
+
+## Session Log
+
+### 2026-04-23
+- Added homepage (`content/_index.md`) — under-construction message, Substack link, subscribe embed
+- Added bare about page bio
+- Updated CLAUDE.md to reflect phased launch strategy (Phase 1 before May 8)
+- Phase 1 remaining: GitHub repo → Netlify deploy → rushofitall.com redirect → cancel Squarespace
+
+### 2026-04-01
+- Confirmed Hugo site skeleton already in place at `/Users/Jeff/Desktop/jeffcalvert.net/`
+- Established CSS strategy: override theme via `assets/css/light.css` and `layouts/partials/css-overwrite.html` (never edit theme files directly)
+- Applied Jeff's color palette, fonts, and sizing from style reference doc
+- Created `layouts/single.html` override to fix tags spacing (space between "Tags:" and first tag)
+- Removed h2 decorative underline (theme default, not wanted)
+- Centered content page title (h1) and date
+- Fixed active nav item: removed bold (kept underline, increased offset to clear descenders)

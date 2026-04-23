@@ -1,0 +1,301 @@
+<style>
+  /* ============================================================
+     THEME OVERRIDES — Jeff Calvert site
+     Typography, spacing, and layout customizations
+     ============================================================ */
+
+  /* --- Remove h2 decorative underline from theme --- */
+  h2::after {
+    display: none;
+  }
+
+  /* --- Article: constrain to readable width, centered --- */
+  article {
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* --- Center content page title and date --- */
+  article > h1 {
+    text-align: center;
+  }
+
+  article > p:has(time) {
+    text-align: center;
+  }
+
+  /* --- Root overrides --- */
+  :root {
+    --container-max-width: 1800px;
+    --font-family-sans: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    --font-family-serif: "Palatino Linotype", Palatino, "Book Antiqua", serif;
+    --line-height-base: 1.4;
+  }
+
+  /* --- Base font size --- */
+  html {
+    font-size: 20px;
+  }
+
+  /* --- Body: serif, 20px base, 1.4 line height --- */
+  body {
+    font-family: var(--font-family-serif);
+    font-size: 1rem;         /* 20px */
+    line-height: 1.4;
+    max-width: var(--container-max-width);
+    padding-left: 3vw;
+    padding-right: 3vw;
+  }
+
+  /* --- Headings: Arial, weight 400, line-height 1.2, no extra letter-spacing --- */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-family-sans);
+    font-weight: 400;
+    line-height: 1.2;
+    letter-spacing: 0;
+  }
+
+  h1 { font-size: 2.2rem; }
+  h2 { font-size: 1.8rem; margin-bottom: 0; }
+  h3 { font-size: 1.4rem; margin-bottom: 0; }
+  h4 { font-size: 1.1rem; margin-bottom: 0; }
+
+  /* --- Navigation: Arial, blood red --- */
+  header nav {
+    font-family: var(--font-family-sans);
+    font-size: 1rem;
+  }
+
+  header nav a {
+    color: #610505;
+  }
+
+  header nav a:hover {
+    color: #8a0707;
+  }
+
+  /* --- Hamburger button (hidden on desktop) --- */
+  .nav-toggle {
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 1.5rem;
+    height: 1.25rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+    min-height: unset;
+    min-width: unset;
+    box-shadow: none;
+  }
+
+  .nav-toggle span {
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #610505;
+    border-radius: 2px;
+    transition: all 0.2s ease;
+  }
+
+  .nav-toggle:hover { box-shadow: none; }
+  .nav-toggle:active { transform: none; box-shadow: none; filter: none; }
+  .nav-toggle::after { display: none; }
+
+  /* --- Mobile nav --- */
+  @media (max-width: 600px) {
+    .nav-toggle {
+      display: flex;
+    }
+
+    .nav-links {
+      display: none;
+      position: absolute;
+      top: 100%;
+      right: 0;
+      background: var(--body-bg);
+      border: 1px solid var(--border-color);
+      border-radius: var(--border-radius);
+      padding: 0.75rem 1.25rem;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.75rem;
+      box-shadow: var(--shadow-md);
+      z-index: 100;
+      min-width: 10rem;
+    }
+
+    .nav-links.nav-open {
+      display: flex;
+    }
+
+    .nav-links li + li::before {
+      display: none;
+    }
+
+    header nav {
+      position: relative;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: nowrap;
+    }
+  }
+
+  /* --- Tags, metadata, misc small text: Arial --- */
+  .tags a,
+  .tag,
+  time,
+  .meta,
+  figcaption,
+  small {
+    font-family: var(--font-family-sans);
+    font-size: 1rem;
+    line-height: 1;
+    letter-spacing: 0.01em;
+  }
+
+  /* --- Figcaption spacing (adapted from old site) --- */
+  figcaption {
+    margin-top: 5px;
+    margin-bottom: 0;
+    padding-top: 0;
+  }
+
+  /* ============================================================
+     ORIGINAL THEME OVERWRITE CONTENT (preserved from theme)
+     ============================================================ */
+
+  /* Skip link: hidden until focused */
+  #skip-link {
+    position: absolute;
+    left: -9999px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+
+  #skip-link:focus {
+    position: static;
+    width: auto;
+    height: auto;
+    overflow: visible;
+    padding: 0.5rem;
+  }
+
+  pre code,
+  code {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
+
+  /* always center images */
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  figcaption {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* navbar (scoped to header to avoid affecting ToC nav) */
+  header nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    overflow: visible;
+    padding: 0.5rem 0;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+  }
+
+  header nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    gap: 0;
+    align-items: center;
+  }
+
+  header nav ul li + li::before {
+    content: "|";
+    padding: 0 0.4rem;
+    opacity: 0.4;
+  }
+
+  header nav a.active {
+    font-weight: 400;
+    text-decoration: underline;
+    text-underline-offset: 0.35em;
+  }
+
+  /* (original theme mobile nav rule removed — replaced by hamburger menu above) */
+
+  /* Dark mode toggle button */
+  .dark-mode-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.25rem;
+    margin: 0;
+    min-height: auto;
+    min-width: auto;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--body-color);
+    border-radius: var(--border-radius);
+    transition: var(--transition-base);
+    box-shadow: none;
+    line-height: 1;
+  }
+
+  .dark-mode-toggle:hover {
+    opacity: 0.7;
+    box-shadow: none;
+  }
+
+  .dark-mode-toggle:active {
+    transform: none;
+    box-shadow: none;
+    filter: none;
+  }
+
+  .dark-mode-toggle:hover::after {
+    background-color: transparent;
+  }
+
+  .dark-mode-toggle svg {
+    width: 1.25rem;
+    height: 1.25rem;
+    fill: currentColor;
+  }
+
+  .dark-mode-toggle .icon-sun { display: none; }
+  .dark-mode-toggle .icon-moon { display: none; }
+  .dark-mode-toggle .icon-system { display: block; }
+
+  html[data-theme-pref="light"] .dark-mode-toggle .icon-sun { display: block; }
+  html[data-theme-pref="light"] .dark-mode-toggle .icon-moon { display: none; }
+  html[data-theme-pref="light"] .dark-mode-toggle .icon-system { display: none; }
+
+  html[data-theme-pref="dark"] .dark-mode-toggle .icon-sun { display: none; }
+  html[data-theme-pref="dark"] .dark-mode-toggle .icon-moon { display: block; }
+  html[data-theme-pref="dark"] .dark-mode-toggle .icon-system { display: none; }
+
+  html[data-theme-pref="system"] .dark-mode-toggle .icon-sun { display: none; }
+  html[data-theme-pref="system"] .dark-mode-toggle .icon-moon { display: none; }
+  html[data-theme-pref="system"] .dark-mode-toggle .icon-system { display: block; }
+
+</style>
