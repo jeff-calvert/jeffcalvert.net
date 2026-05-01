@@ -20,7 +20,7 @@ And then I went out and ran a really strong performance, somehow, for some reaso
 
 …
 
-![](hero.jpg) [ Strava activity link ]
+![](hero.jpg) [Strava activity](https://www.strava.com/activities/3208546547)
 
 **I needed a run like that.** I needed a surprise affirmation that what I’ve been doing has been good for me, that regardless of my knee, I’m in general still doing well, still strong and able, perhaps even still improving.
 

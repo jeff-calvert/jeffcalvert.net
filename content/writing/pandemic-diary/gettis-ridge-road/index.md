@@ -16,4 +16,4 @@ Another family run in Rothrock State Forest.
 
 ![](hero.jpg)
 ![](image-01.jpg)
-![](image-02.jpg) [ Strava activity link ]
+![](image-02.jpg) [Strava activity](https://www.strava.com/activities/3363468866)

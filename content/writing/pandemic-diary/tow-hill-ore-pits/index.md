@@ -24,4 +24,4 @@ And it was Scotia’s lucky day (she carried that deer shank for many miles).
 
 ![](image-03.jpg)
 ![](image-04.jpg)
-![](image-05.jpg) [ Strava activity link ]
+![](image-05.jpg) [Strava activity](https://www.strava.com/activities/3328584123)

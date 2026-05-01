@@ -18,4 +18,4 @@ Tussey Ridge/John Wert loop w/ Renee & Scotia (at Scotia’s warm-weather pace)
 ![](hero.jpg)
 ![](image-02.jpg)
 ![](image-03.jpg)
-![](image-04.jpg) [ Strava activity link ]
+![](image-04.jpg) [Strava activity](https://www.strava.com/activities/3719758869)

@@ -32,4 +32,4 @@ and all the same.
 
 *Originally published to Strava on 30 November 2020 (Monday)*
 
-![](image-02.jpg) [ Strava activity link ]
+![](image-02.jpg) [Strava activity](https://www.strava.com/activities/4414280244)

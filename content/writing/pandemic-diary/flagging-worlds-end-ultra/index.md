@@ -32,4 +32,4 @@ But there’s no cell service down there, so I told them I’d contact someone a
 
 Beyond that, there was nothing too exciting to report, no bear encounters or snake encounters or other people encounters.  I did stop in a Dave’s cabin at the end of the day (I was parked there) and chatted with him and with Brad Bason for a while, and that was nice.  And I got over 19 miles, a decent workout, a nice day in the woods, and I did part of my bit for the race.  It was a good day.
 
-![](image-03.jpg) [ Strava activity link ]
+![](image-03.jpg) [Strava activity](https://www.strava.com/activities/4108750569)

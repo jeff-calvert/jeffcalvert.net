@@ -44,7 +44,7 @@ But I did keep up, and his surges were mixed with plenty of hiking, and I felt g
 
 That sounds pitiful I know, to even be commenting on my own little 23-mile effort in the context of this 323-mile run he is on, but there it is, and I’ll take it.
 
-![](image-03.jpg) [ Strava activity link ]
+![](image-03.jpg) [Strava activity](https://www.strava.com/activities/3792556444)
 
 ---
 
@@ -62,7 +62,7 @@ I can say that more confidently after having spent that day with him, because be
 
 It’s exactly the kind of thing that we need right now.
 
-![](image-04.jpg) [ Strava activity link ]
+![](image-04.jpg) [Strava activity](https://www.strava.com/activities/3808284415)
 
 ---
 

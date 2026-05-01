@@ -25,4 +25,4 @@ Perfect for 2020.
 ---
 
 ![](image-01.jpg)
-![](image-02.jpg) [ Strava activity link ]
+![](image-02.jpg) [Strava activity](https://www.strava.com/activities/4269256735)

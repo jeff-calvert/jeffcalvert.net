@@ -89,4 +89,4 @@ Oh, and Jeff had a good day, too, with a 100 mile PR by 2 hours and 20 minutes!Â
 
 ---
 
-![](image-15.jpg) [ Strava activity link ]
+![](image-15.jpg) [Strava activity](https://www.strava.com/activities/4208845767)

@@ -16,4 +16,4 @@ aliases:
 
 1,000th day in a row (with at least 1 mile).  I took about a week off after I finished UTMB in 2017, and haven’t missed a day since.  (It’s a start...)
 
-![](hero.jpg) [ Strava activity link ]
+![](hero.jpg) [Strava activity](https://www.strava.com/activities/3569630487)
