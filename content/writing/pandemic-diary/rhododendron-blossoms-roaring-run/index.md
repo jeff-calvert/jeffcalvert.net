@@ -17,4 +17,4 @@ Gently swirling blossoms in a cold creek on a hot day (Rothrock State Forest).
 ![](hero.jpg)
 ![](image-01.jpg)
 ![](image-02.jpg)
-![](image-03.jpg) [Strava activity](https://www.strava.com/activities/3782790313)
+![[Strava activity](https://www.strava.com/activities/3782790313)](image-03.jpg)

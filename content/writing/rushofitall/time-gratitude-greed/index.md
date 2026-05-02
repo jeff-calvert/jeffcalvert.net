@@ -16,9 +16,7 @@ Time is the first topic today for a couple reasons.
 
 First, it was one of the things that came to me last night as I was on my way to bed. Here’s what I captured to WorkFlowy:
 
-> ```
 > Time is soft, mutable, sometimes malleable — bend it to your will, turn it off every so often. Use it — don’t let it use you. Life in a day on an ultra, minutes like hours during your late night thrashing about in search of sleep.
-> ```
 
 And that’s where I stopped, even though there is clearly much more to say. I didn’t quote Thoreau (“Time is but the stream I go a-fishing in”) and I didn’t talk about whether time is real or not, or what its nature really is, and I didn’t say how to do the things I advise. How do you bend time to your will? How do you turn it off every so often? There is so much more to write here.
 

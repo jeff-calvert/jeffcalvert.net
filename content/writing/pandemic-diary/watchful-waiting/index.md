@@ -35,14 +35,8 @@ If we can hold it, it’s likely to be one of the first post-lockdown events, an
 
 My response to Candice Burt’s post on the Bigfoot 200 group page, where she explained her approach to race cancellation decisions:
 
-> ```
 > Very well said, and the only responsible answer right now — thank you.
-> ```
 >
-> ```
 > Our Eastern States 100 board and race committee will meet (online) this weekend to discuss these same challenges that so many other races around the country and world are facing — how do we plan a safe and responsible event that may or may not happen, what are our criteria and timeline for decisions, and how do we handle a cancelation if that is necessary.
-> ```
 >
-> ```
 > I think the primary things we owe our runners are knowledgeable decisions made in good faith, with transparency and fairness.  I hope that in return, our runners give us patience and understanding.  I expect that we are a resilient community of exceptional humans who realize that what we do transcends any particular event or year.  I expect we’ll run our way right through this, and we’ll be alright on the other side.
-> ```

@@ -22,4 +22,4 @@ We spent the afternoon rock dancing.
 ![](image-04.jpg)
 ![](image-05.jpg)
 ![](hero.jpg)
-![](image-06.jpg) Strava activity link
+![Strava activity link](image-06.jpg)

@@ -1,0 +1,14 @@
+{{- $url := .Destination -}}
+{{- $alt := .Text | default .PlainText -}}
+{{- if $alt -}}
+<figure>
+  <a class="lightbox" href="{{ $url | safeURL }}">
+    <img src="{{ $url | safeURL }}" alt="{{ $alt }}"{{ with .Title }} title="{{ . }}"{{ end }}>
+  </a>
+  <figcaption>{{ $alt }}</figcaption>
+</figure>
+{{- else -}}
+<a class="lightbox" href="{{ $url | safeURL }}">
+  <img src="{{ $url | safeURL }}" alt=""{{ with .Title }} title="{{ . }}"{{ end }}>
+</a>
+{{- end -}}

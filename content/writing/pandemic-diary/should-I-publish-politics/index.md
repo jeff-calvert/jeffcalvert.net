@@ -43,13 +43,9 @@ If this also reaches other people that’s great, but I can’t be willing to co
 
 **After I worked my way through all that**, I found a quote that amplifies the question (and clarifies the answer):
 
-> ```
 > For those who are telling me to keep my mouth shut, I can’t do that. I’m against segregation at lunch counters, and I’m not going to segregate my moral concerns. And we must know on some positions, cowardice asks the question, “Is it safe?” Expediency asks the question, “Is it politic?” Vanity asks the question, “Is it popular?” But conscience asks the question, “Is it right?” And there’re times when you must take a stand that is neither safe nor politic nor popular, but you must do it because it is right.
-> ```
 >
-> ```
 > —Martin Luther King, Jr. (from speech “America’s Chief Moral Dilemma”, 1967)
-> ```
 
 **So yes, I *do*** write publicly about politics.
 

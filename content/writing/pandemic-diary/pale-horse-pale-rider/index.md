@@ -18,45 +18,25 @@ aliases:
 
 ![](hero.jpg)
 
-> ```
 > “…they think the germs were sprayed over the city — it started in Boston, you know — and somebody reported seeing a strange, thick, greasy-looking cloud float up out of Boston Harbor and spread slowly all over that end of town.  I think it was an old woman who saw it.”
-> ```
 >
-> ```
 > “Should have been,” said Chuck.
-> ```
 >
-> ```
 > “I read it in a New York newspaper,” said Towney; “so it’s bound to be true.”
-> ```
 >
-> ```
 > Chuck and Miranda laughed so loudly at this that Bill stood up and glared at them.  “Towney still reads the newspapers,” explained Chuck.
-> ```
 >
-> ```
 > “Well, what’s funny about that?” asked Bill, sitting down again and frowning into the clutter before him.
-> ```
 >
-> ```
 > “It was a noncombatant saw that cloud,” said Miranda.
-> ```
 >
-> ```
 > “Naturally,” said Towney.
-> ```
 >
-> ```
 > “Member of the Lusk Committee, maybe,” said Miranda.
-> ```
 >
-> ```
 > “The Angel of Mons,” said Chuck, “or a dollar-a-year man.”
-> ```
 >
-> ```
 >         —Katherine Anne Porter in Pale Horse, Pale Rider (published in 1939)
-> ```
 
 ---
 

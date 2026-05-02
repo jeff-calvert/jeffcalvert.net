@@ -132,7 +132,7 @@ So honestly, how did I feel yesterday during the run?
 
 **But at the same time**, I was trying to hold myself back, trying to decide how long I had to hold back, and when I finally decided I’d waited long enough, I felt great.
 
-![](image-01.jpg) PC: Lucas Calvert
+![PC: Lucas Calvert](image-01.jpg)
 
 I did a nice acceleration through the final miles and I felt strong at the end and I’m sure I could have started that acceleration earlier and held it, or done a more extreme acceleration. That is reassuring, as is the fresh experience of that great feeling of passing people at the end of the run.
 
@@ -312,7 +312,7 @@ Or, a faster pace might have crashed me.
 
 [I suspect this photo from the homestretch captures the precise moment I realized I wasn’t going to make it in time. At first glance, it might look like determination on my face, but more likely it’s self-disgust, me realizing that my big ol’ brain has failed me.]
 
-![](hero.jpg) PC: Steamtown Marathon
+![PC: Steamtown Marathon](hero.jpg)
 
 **So there you have it…**
 

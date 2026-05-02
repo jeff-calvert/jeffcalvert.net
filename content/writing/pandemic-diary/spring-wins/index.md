@@ -14,4 +14,4 @@ aliases:
 
 *13 May 2020 (Wednesday)*
 
-![](hero.jpg) One of the Scotia Barrens’ many grassy highways, lined with fruit trees (and Scotia the Dog).
+![One of the Scotia Barrens’ many grassy highways, lined with fruit trees (and Scotia the Dog).](hero.jpg)

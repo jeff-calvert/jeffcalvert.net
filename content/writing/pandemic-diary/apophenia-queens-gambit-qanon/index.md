@@ -14,13 +14,9 @@ aliases:
 
 > #### Apophenia
 >
-> ```
 > Apophenia is the tendency to perceive meaningful connections between unrelated things. The term was coined by psychiatrist Klaus Conrad in his 1958 publication on the beginning stages of schizophrenia. He defined it as "unmotivated seeing of connections a specific feeling of abnormal meaningfulness". He described the early stages of delusional thought as self-referential, over-interpretations of actual sensory perceptions, as opposed to hallucinations.
-> ```
 >
-> ```
 >                    — Wikipedia
-> ```
 
 I bring this up because I’ve come across this new-to-me word (and intriguing concept) twice recently and thought it was worthy of note.  I noticed it first in *The Queen’s Gambit* on Netflix, (during the *Life* magazine interview scene) and then in this article that explains the QAnon phenomenon from the standpoint of game design (“[A Game Designer’s Analysis Of QAnon: Playing with Reality](https://medium.com/curiouserinstitute/a-game-designers-analysis-of-qanon-580972548be5)”, by Rabbit Rabbit, September 30, 2020 on Medium).
 

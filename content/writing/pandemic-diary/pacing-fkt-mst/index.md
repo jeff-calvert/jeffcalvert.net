@@ -26,9 +26,9 @@ I’ll stay with him (assuming I can keep up with him) until at least Penn Roose
 
 **I just had** the pleasure/privilege of sharing some miles with Eric “Idiotrunner” Kosek, showing him around our local section (the very BEST section) of the Mid State Trail (I was with him from Little Flat to Sand Mt Rd — only about 20 miles of the much longer distance he ran today) as he works his way northward enroute to the FKT (fastest known time) on this wildest of PA’s many wild trails.  Well over 100 miles into the 323-mile effort, he was strong, steady, and smooth (even with temps in the 80’s).  He’ll finish today 13 miles ahead of schedule.
 
-![](image-01.jpg) Eric at the Tom Thwaites memorial on top of Little Flat (birthplace of the Mid State Trail)
-![](image-02.jpg) Eric, Becky, and Ben — mobile aid station stop in Penn Roosevelt State Park
-![](hero.jpg) Long Mountain, just east of Rt. 322, 30+ miles into the day’s run, over 80F and full sun (this is one of the smooth spots)
+![Eric at the Tom Thwaites memorial on top of Little Flat (birthplace of the Mid State Trail)](image-01.jpg)
+![Eric, Becky, and Ben — mobile aid station stop in Penn Roosevelt State Park](image-02.jpg)
+![Long Mountain, just east of Rt. 322, 30+ miles into the day’s run, over 80F and full sun (this is one of the smooth spots)](hero.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ But I did keep up, and his surges were mixed with plenty of hiking, and I felt g
 
 That sounds pitiful I know, to even be commenting on my own little 23-mile effort in the context of this 323-mile run he is on, but there it is, and I’ll take it.
 
-![](image-03.jpg) [Strava activity](https://www.strava.com/activities/3792556444)
+![[Strava activity](https://www.strava.com/activities/3792556444)](image-03.jpg)
 
 ---
 
@@ -62,7 +62,7 @@ I can say that more confidently after having spent that day with him, because be
 
 It’s exactly the kind of thing that we need right now.
 
-![](image-04.jpg) [Strava activity](https://www.strava.com/activities/3808284415)
+![[Strava activity](https://www.strava.com/activities/3808284415)](image-04.jpg)
 
 ---
 

@@ -158,11 +158,12 @@
     letter-spacing: 0.01em;
   }
 
-  /* --- Figcaption spacing (adapted from old site) --- */
+  /* --- Figcaption: centered, with adapted spacing --- */
   figcaption {
     margin-top: 5px;
     margin-bottom: 0;
     padding-top: 0;
+    text-align: center;
   }
 
   /* ============================================================
@@ -193,11 +194,36 @@
     text-size-adjust: 100%;
   }
 
+  /* link hover: instant full underline (override theme's animated scaleX) */
+  a:not(nav a):before {
+    display: none;
+  }
+  a:not(nav a):hover {
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+  }
+
   /* always center images */
   img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  /* disable hover scale/shadow on images */
+  img:hover {
+    transform: none;
+    box-shadow: var(--shadow);
+  }
+
+  /* image link wrapper: signal clickability without underline */
+  a:has(> img) {
+    display: block;
+    text-decoration: none;
+    border-bottom: none;
+  }
+  a:has(> img):hover img {
+    cursor: zoom-in;
   }
 
   figcaption {

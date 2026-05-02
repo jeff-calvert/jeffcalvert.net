@@ -17,6 +17,7 @@ theme = "hugo-classless"
 
 [taxonomies]
   tag = "tags"
+  format = "format"
 
 [menu]
   [[menu.main]]

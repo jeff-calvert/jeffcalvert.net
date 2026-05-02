@@ -12,6 +12,6 @@ aliases:
 
 *Originally published to Facebook on 27 September 2020 (Sunday)*
 
-![](image-01.jpg) PC: AR Smith
+![PC: AR Smith](image-01.jpg)
 ![](image-02.jpg)
-![](hero.jpg) PC: RA Calvert
+![PC: RA Calvert](hero.jpg)

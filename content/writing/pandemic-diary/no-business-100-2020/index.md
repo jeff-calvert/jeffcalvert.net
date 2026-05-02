@@ -43,15 +43,15 @@ aliases:
 
 ## During
 
-![](hero.jpg) We ran the first few miles together. (photo: Misty Wong)
+![We ran the first few miles together. (photo: Misty Wong)](hero.jpg)
 
 ![](image-03.jpg)
 ![](image-04.jpg)
 ![](image-05.jpg)
 
-![](image-06.jpg) Her real (chip) time was 28:35…. (photo: Misty Wong)
-![](image-07.jpg) Race director Brian Gajus gives Renee her buckles. (photo: Nichole Newport)
-![](image-08.jpg) Only a touch of post-race swagger… (photo: Nichole Newport)
+![Her real (chip) time was 28:35…. (photo: Misty Wong)](image-06.jpg)
+![Race director Brian Gajus gives Renee her buckles. (photo: Nichole Newport)](image-07.jpg)
+![Only a touch of post-race swagger… (photo: Nichole Newport)](image-08.jpg)
 
 ---
 
@@ -59,8 +59,8 @@ aliases:
 
 **The race is over** and we're back to our comfy cabin.  Renee and I both won our age groups and PR’d.  I didn’t manage that sub-24 I was thinking about — I think I wasn’t being reasonable when I chose that as my reach goal.  Now I'm fading fast — think I’ll have a beer and go to bed.
 
-![](image-09.jpg) Post-race resting (photo: Misty Wong)
-![](image-10.jpg) Post-race resting (photo: Misty Wong)
+![Post-race resting (photo: Misty Wong)](image-09.jpg)
+![Post-race resting (photo: Misty Wong)](image-10.jpg)
 
 ---
 
@@ -89,4 +89,4 @@ Oh, and Jeff had a good day, too, with a 100 mile PR by 2 hours and 20 minutes!�
 
 ---
 
-![](image-15.jpg) [Strava activity](https://www.strava.com/activities/4208845767)
+![[Strava activity](https://www.strava.com/activities/4208845767)](image-15.jpg)

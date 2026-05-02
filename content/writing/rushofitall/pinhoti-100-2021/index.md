@@ -14,7 +14,7 @@ aliases:
 
 **The Pinhoti 100** is a point-to-point footrace on a portion of the Pinhoti Trail in Talladega National Forest in north-east Alabama. I traveled there with my wife Renee and our friend Kayla on the first weekend of November for the race. Our friends Jason and Tim (his pacer) met us there, and we had a fine adventure.
 
-![](hero.jpg) PC: Renee Calvert
+![PC: Renee Calvert](hero.jpg)
 
 Pinhoti was my seventh hundred-miler, and I was hoping it might be my fastest. Its elevation profile, along with the relative smoothness of its trails and an expectation of mellow southern fall weather, had me thinking this was a perfect opportunity to achieve one of the gold standards of ultra competency for an aging mid-pack runner like myself: 100 miles in a single day, a sub-24 finish.
 
@@ -28,11 +28,11 @@ I had a solid train-up, and I was on track towards that goal, but then I aggrava
 
 * **Getting to the rocks.** The first 40 miles or so were beautiful but smooth and easy single track. But about two thirds of the way up Cheaha Mountain (Alabama’s highest point), we came to a rocky section. It wasn’t quite Pennsylvania-rocky, but it still felt like a touch of home (a cold drink of water on a hot day, a breath of fresh air…) It brought a big smile to my face and put energy in my steps.
 
-![](image-01.jpg) PC: Renee Calvert
+![PC: Renee Calvert](image-01.jpg)
 
 * **Longleaf pines.** The exotic look of those branchless seedlings and saplings, the luxurious cushioning where their foot-long needles lay deep on the trail, the heft and presence of those big heavy-barked trunks…
 
-![](image-02.jpg) PC: Renee Calvert
+![PC: Renee Calvert](image-02.jpg)
 
 * **More rocks.**  The descent from Cheaha Mountain, a section of trail known as Blue Hell, was even rockier. In fact it was nearly Catskillian, if only for a short distance. It brought me another big smile, and the energy and enthusiasm to make a few passes. Even better, a group of Boy Scouts was out there as I went down (yes, sadly I do like to show off sometimes).
 * **Hot apple cider.**  I don’t remember which aid station had this magical elixir, but it was exactly what I needed at that moment. Thank you!
@@ -41,16 +41,19 @@ I had a solid train-up, and I was on track towards that goal, but then I aggrava
 * **Victories.** When I made it to the finish line, Kayla was there to greet me, after finishing over 2 hours earlier as the female winner and 5th place overall. Sometimes things go really well for people who work really hard.
 
 ![](image-03.jpg)
+
 ![](image-04.jpg)
 
 * **Thresholds.** Renee’s sprint to a 26:59:59 finish (and the smile on her face as she did it).
 
 ![](image-05.jpg)
+
 ![](image-06.jpg)
 
 * **Tenacity**. Jason endured a back issue that held him to a walk for much of the second half of the race. He pushed on and finished (with a smile).
 
 ![](image-07.jpg)
+
 ![](image-08.jpg)
 
 ---
@@ -112,7 +115,7 @@ During this phase, the biggest challenge for an older man like me, with older-ma
 
 In the early miles, it was twinging regularly, just as it had been since it went bad a few weeks earlier. But that faded as the miles went by, and the twinges become less and less frequent. They were still there every so often, and they were loud enough to remind that there was still this potentially debilitating threat riding along with me, but my confidence was growing as the miles went by.
 
-![](image-10.jpg) PC: Steven Bagley Photography
+![PC: Steven Bagley Photography](image-10.jpg)
 
 **Anti-social racer that I am**, I still had periods of frustration with other runners. In particular I’m thinking of one group of young men who were chugging along at about the same pace as me, but in front of me, and playing music. Not headphone or earbud music, but mini-boom-box music, broadcasting it loudly enough to hear from 20 yards away.
 

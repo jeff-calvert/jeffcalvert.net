@@ -42,4 +42,4 @@ But I’ve also decided that I can’t (or at least I won’t) keep waiting arou
 
 This is just another one of them.
 
-![](hero.jpg) [Strava activity](https://www.strava.com/activities/3850649285)
+![[Strava activity](https://www.strava.com/activities/3850649285)](hero.jpg)

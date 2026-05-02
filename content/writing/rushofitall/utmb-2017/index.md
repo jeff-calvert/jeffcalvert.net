@@ -28,9 +28,9 @@ It was exhilarating, the crush of so many runners in such a small space, the ner
 
 In a start like this, you have almost no autonomy, no option other than to go with the flow of the people around you, no faster or slower. And you’d best balance your desire to take in the spectacle of it all with some concentration on the surface at your feet, especially as the road gets rougher on the outskirts of town. If you fall here, you’ll be trampled.
 
-![](image-02.jpg) My view at the start.
-![](image-03.jpg) Conga line on the first climb (Les Houches and Chamonix in the background)
-![](image-04.jpg) … and my place in it. (I’m probably sweating more than I should be so early in the race.) ( PC: Maindru Photos)
+![My view at the start.](image-02.jpg)
+![Conga line on the first climb (Les Houches and Chamonix in the background)](image-03.jpg)
+![… and my place in it. (I’m probably sweating more than I should be so early in the race.) ( PC: Maindru Photos)](image-04.jpg)
 
 ## First Night: Crowds, a collision, allez-allez, and finally some peace in the very early morning
 
@@ -72,7 +72,7 @@ In tourist mode I lose my focus and I drift from my purpose. I drifted in many w
 
 Maybe you can see it here as I’m leaving Col Checrouit (mile 47). The glory of that sunrise is past and I’m settling into the warmth of the day and the long miles still ahead. My mouth is full of food, my stride is relaxed, the look on my face is just a little too satisfied… it’s not bad, and it’s sustainable (which is important, since I’m not even halfway), but I’m clearly not pushing the way I did through the night. I’m in tourist mode, autopilot, just drifting through a beautiful day in the mountains.
 
-![](image-05.jpg) Leaving Col Checrouit — mile 47 ( PC: Maindru Photos)
+![Leaving Col Checrouit — mile 47 ( PC: Maindru Photos)](image-05.jpg)
 
 By the time I got to Courmayeur (mile 49), that drift was taking its toll, and I was getting sleepy. Renee was delayed getting through the tunnel from France to Italy, and by the time she arrived, I was slipping into that stupor state of the sleep deprived. The rising heat of the day accentuated the effect.
 
@@ -82,7 +82,7 @@ The most notable part of day two (other than sunrise) was the blizzard.
 
 I’m not sure when the weather changed, but in this photo on the descent to Arnouvoz (mile 60) at about 1:45pm, it’s cloudy and I’ve got my hat and raincoat on. At Arnouvoz, no one could leave without donning rain pants. I was irritated — as long as it’s above 0F, I’m in shorts. I thought of trying my “it’s okay, I’m an American” line, but instead I just went along with the indignity of it and put the pants on.
 
-![](image-06.jpg) Descending to Arnouvoz— mile ~59 ( PC: Maindru Photos)
+![Descending to Arnouvoz— mile ~59 ( PC: Maindru Photos)](image-06.jpg)
 
 An hour and a half later (and 2400 feet higher), I crossed from Italy into Switzerland over the fabled Gran Col Ferret in high wind and a horizontal snowstorm, baggy pants and all. It was one of the coolest, most magical and surreal things I’ve ever done.
 
@@ -109,7 +109,7 @@ Arriving to Champex Lac (captures from the race camera — me on the left, Elle 
 
 It was a brief but powerful stop, the turning point of my race. Up to that point I’d had some good moments, and even with that day-two fade, I was still towards the front of the mid-pack. But it still felt mediocre, and something had to change.
 
-![](image-09.jpg) Hot soup and a crew visit at Champex-Lac — the turning point of the race.
+![Hot soup and a crew visit at Champex-Lac — the turning point of the race.](image-09.jpg)
 
 It might have been seeing both Renee and Lucas, and knowing I had someone to leave here with (and an appointed time to meet her for departure, fast approaching). Or it might just have been time for it to happen. Either way, the sense of urgency returned, and I started to remember how I’d felt late in the race at Manitou’s earlier in the year. I realized that I wanted that feeling again — I wanted to pass people, to wear them down and knock them off one by one in the late miles. It’s a powerful feeling, addictive, and it’s hard to get to, but it’s also what I was really here for.
 
@@ -135,12 +135,12 @@ I was cruising, passing runner after runner, but a rising fog started to slow me
 
 The final climb to La Flegere felt endless, but the sun was rising again, as was the sense that this was almost done. I passed another 58 people between Col Des Montets and La Flegere, and I got a solid dose of that rush I was seeking.
 
-![](image-10.jpg) I wish I had a better shot than this race video capture, but it’s all here: me rising from the fog at the top of the final climb in the light of Third Sunrise, a very good moment.
+![I wish I had a better shot than this race video capture, but it’s all here: me rising from the fog at the top of the final climb in the light of Third Sunrise, a very good moment.](image-10.jpg)
 
 The last 5 miles, a long and twisting descent on gravel roads and rooty, washed-out trails, went by quickly. At the bottom, back in Chamonix, it was just past 8am, too early for the big crowds. It was still loud, still more people than are likely to ever be cheering for me at a finish again. You wind your way through town, the crowd gets louder, and then you’re in that finish chute and 37 hours and 52 minutes after you started, it’s over, just like that.
 
-![](image-11.jpg) (PC: Maindru Photos)
-![](image-12.jpg) (PC: Maindru Photos)
+![(PC: Maindru Photos)](image-11.jpg)
+![(PC: Maindru Photos)](image-12.jpg)
 
 It wasn’t long until Elle came in, too, recovered enough to finish strong and smooth — a good ending.
 

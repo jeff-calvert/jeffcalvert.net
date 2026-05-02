@@ -5,20 +5,12 @@
 
   <h1>{{ .Title }}</h1>
 
-  {{- if not .Date.IsZero -}}
-  <p>
-    <em>
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-      &middot; {{ .ReadingTime }} {{ i18n "minRead" | default "min read" }}
-    </em>
-  </p>
+  {{- with .Param "pd_day" -}}
+  <p style="text-align: center;">(<a href="/writing/pandemic-diary/">Pandemic Diary</a> &ndash; day {{ . }})</p>
+  <hr>
   {{- end -}}
 
-  {{- if and .Lastmod (ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02")) -}}
-  <p><em><small>{{ i18n "lastModified" | default "Last modified" }}: <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format "January 2, 2006" }}</time></small></em></p>
-  {{- end -}}
-
-  {{- if (.Param "toc" | default true) -}}
+{{- if (.Param "toc" | default true) -}}
   {{- $toc := .TableOfContents -}}
   {{- if findRE "<li>" $toc -}}
   <details>
@@ -28,12 +20,10 @@
   {{- end -}}
   {{- end -}}
 
-  {{/* The main content of your post */}}
   <div>
     {{ .Content }}
   </div>
 
-  {{/* Tags (disable with showTaxonomy: false in front matter or site params) */}}
   {{- $showTaxonomy := .Param "showTaxonomy" | default true -}}
   {{- $tags := .GetTerms "tags" -}}
   {{- if and $showTaxonomy $tags -}}
@@ -49,7 +39,6 @@
   {{- end -}}
   {{- end -}}
 
-  {{/* Related Posts */}}
   {{- $related := .Site.RegularPages.Related . | first 5 -}}
   {{- with $related -}}
   <hr>
@@ -61,14 +50,13 @@
   </ul>
   {{- end -}}
 
-  {{/* Previous/Next Navigation */}}
-  {{- $prev := .PrevInSection -}}
-  {{- $next := .NextInSection -}}
-  {{- if or $prev $next -}}
+  {{- $older := .PrevInSection -}}
+  {{- $newer := .NextInSection -}}
+  {{- if or $older $newer -}}
   <hr>
   <p style="display: flex; justify-content: space-between; gap: 2rem;">
-    <span>{{- with $prev -}}<a href="{{ .RelPermalink }}">&larr; {{ .Title }}</a>{{- end -}}</span>
-    <span style="text-align: right;">{{- with $next -}}<a href="{{ .RelPermalink }}">{{ .Title }} &rarr;</a>{{- end -}}</span>
+    <span>{{- with $older -}}<a href="{{ .RelPermalink }}">&larr; {{ .Title }}</a>{{- end -}}</span>
+    <span style="text-align: right;">{{- with $newer -}}<a href="{{ .RelPermalink }}">{{ .Title }} &rarr;</a>{{- end -}}</span>
   </p>
   {{- end -}}
 

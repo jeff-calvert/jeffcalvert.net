@@ -28,5 +28,5 @@ I’ll run, and then I’ll get a fire ready to start in the Bonfire (it’s mai
 
 Found on our fridge at the end of the year…
 
-![](image-02.jpg) Renee’s run countdown sheet (to 2,020 miles for 2020)
+![Renee’s run countdown sheet (to 2,020 miles for 2020)](image-02.jpg)
 ![](hero.jpg)

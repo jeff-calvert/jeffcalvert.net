@@ -113,6 +113,8 @@
     <p>&copy; {{ now.Format "2006" }} {{ .Site.Params.author }}.</p>
   </footer>
 
+  {{- partial "lightbox.html" . -}}
+
 </body>
 {{ if or .Params.quickjs .Site.Params.quickjs }}{{ partial "quickjs.html" . }}{{ end }}
 {{ if or .Params.math .Site.Params.math }}{{ partial "math.html" . }}{{ end }}

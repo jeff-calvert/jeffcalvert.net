@@ -26,4 +26,4 @@ Maybe something like this:
 
 Or something like that.
 
-![](hero.jpg) Christmas in Iraq, 1990 (D Company, 1st Squadron, 2nd Armored Cavalry Regiment)
+![Christmas in Iraq, 1990 (D Company, 1st Squadron, 2nd Armored Cavalry Regiment)](hero.jpg)

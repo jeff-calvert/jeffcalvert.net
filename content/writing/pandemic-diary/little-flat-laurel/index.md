@@ -16,5 +16,5 @@ aliases:
 
 Yeah, early summer is a tough time here in central PA — so drab.
 
-![](hero.jpg) Little Flat laurel (top of Spruce Gap Trail)
-![](image-01.jpg) Scotia in Galbraith Gap Run
+![Little Flat laurel (top of Spruce Gap Trail)](hero.jpg)
+![Scotia in Galbraith Gap Run](image-01.jpg)

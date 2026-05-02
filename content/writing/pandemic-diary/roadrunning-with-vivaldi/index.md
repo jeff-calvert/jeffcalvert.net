@@ -22,4 +22,4 @@ I rarely run with music outside, and if I do it’s Tool or similar.  But I did
 
 ![](image-01.jpg)
 ![](image-02.jpg)
-![](image-03.jpg) [Strava activity](https://www.strava.com/activities/3268592583)
+![[Strava activity](https://www.strava.com/activities/3268592583)](image-03.jpg)
